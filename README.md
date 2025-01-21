@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm João 👽</h1>
 <h3 align="center">Passionate about technology! Currently taking a Master's Degree in Informatic Engeneering and IoT</h3>
 
-<p align="left"> <a href="https://twitter.com/joaosimoesss1" target="blank"><img src="https://img.shields.io/twitter/follow/joaosimoesss1?logo=twitter&style=for-the-badge" alt="joaosimoesss1" /></a> </p>
-
 - 🔭 I’m currently working on **IoT integrations**
 
 - 🌱 I’m currently learning **NodeJS, Python and C++**
@@ -30,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaosimoes08&show_icons=true&locale=en&layout=compact" alt="joaosimoes08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosimoes08&show_icons=true&locale=en" alt="joaosimoes08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaosimoes08&" alt="joaosimoes08" /></p>
